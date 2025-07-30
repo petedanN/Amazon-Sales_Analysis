@@ -41,3 +41,8 @@ To derive actionable business insights from sales data and build an interactive 
 - 📈 **Consistent growth in sales over months and quarters**
 - 🛍️ **Most revenue generated from Audio/Video category**
 - 🗓️ **Highest sales occurred mid-week and during Q4**
+
+---
+
+## 🖥️ Dashboard Preview
+![Dashboard Screenshot](images/AmazonSalesDashboard.png)
